@@ -1,0 +1,15 @@
+[submodule "emacs-flymake-cursor"]
+	path = emacs-flymake-cursor
+	url = https://github.com/illusori/emacs-flymake-cursor.git
+[submodule "flymake-easy"]
+	path = flymake-easy
+	url = https://github.com/purcell/flymake-easy.git
+[submodule "flymake-haskell-multi"]
+	path = flymake-haskell-multi
+	url = https://github.com/purcell/flymake-haskell-multi.git
+[submodule "haskell-mode"]
+	path = haskell-mode
+	url = https://github.com/haskell/haskell-mode
+[submodule "org-mode"]
+	path = org-mode
+	url = git://orgmode.org/org-mode.git
